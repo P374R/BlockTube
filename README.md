@@ -18,7 +18,7 @@ Jump into **BlockTube**, a 3D block-building sandbox game! Take control of your 
 
 Special thanks to the talented creators for the CC0/Open Source assets used to bring this game to life:
 
-* **BLOCK TEXTURES:** [Free Shinobi Sprites by Craftpix](https://quaternius.com/packs/cubeworldkit.html)
+* **BLOCKS:** [Free Shinobi Sprites by Craftpix](https://quaternius.com/packs/cubeworldkit.html)
 * **FONTS:** [Kenney Fonts by Kenney](https://kenney.nl/assets/kenney-fonts)
 ---
 
